@@ -1,4 +1,4 @@
-package me.algorithm.week5;
+package me.algorithm.week6;
 
 import java.util.Stack;
 
